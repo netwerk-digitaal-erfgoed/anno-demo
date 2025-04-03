@@ -1,2 +1,2 @@
 # anno-demo
-Demonstrator of a annotation server service for heritage.
+Placeholder for a demonstrator of a annotation server (like https://knaw-huc.github.io/annorepo/) service for heritage.
